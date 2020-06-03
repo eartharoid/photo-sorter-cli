@@ -1,0 +1,26 @@
+{
+  "name": "@eartharoid/photosorter",
+  "version": "1.0.0",
+  "description": "Sort your photos into an intuitive directory structure, ordered by date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eartharoid/photosorter.git"
+  },
+  "author": "eartharoid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eartharoid/photosorter/issues"
+  },
+  "homepage": "https://github.com/eartharoid/photosorter#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "leeks.js": "0.0.8",
+    "minimist": "^1.2.5",
+    "ora": "^4.0.4",
+    "progress": "^2.0.3"
+  }
+}
