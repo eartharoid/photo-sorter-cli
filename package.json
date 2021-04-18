@@ -4,6 +4,7 @@
   "description": "Sort your photos into an intuitive directory structure, ordered by date",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
